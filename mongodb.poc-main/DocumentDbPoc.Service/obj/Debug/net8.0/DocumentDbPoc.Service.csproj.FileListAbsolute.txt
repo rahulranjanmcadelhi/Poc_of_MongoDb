@@ -1,0 +1,15 @@
+C:\Users\lahirugambheera\source\repos\DocumentDbPoc\DocumentDbPoc.Service\bin\Debug\net8.0\DocumentDbPoc.Service.deps.json
+C:\Users\lahirugambheera\source\repos\DocumentDbPoc\DocumentDbPoc.Service\bin\Debug\net8.0\DocumentDbPoc.Service.dll
+C:\Users\lahirugambheera\source\repos\DocumentDbPoc\DocumentDbPoc.Service\bin\Debug\net8.0\DocumentDbPoc.Service.pdb
+C:\Users\lahirugambheera\source\repos\DocumentDbPoc\DocumentDbPoc.Service\bin\Debug\net8.0\DocumentDbPoc.Domain.dll
+C:\Users\lahirugambheera\source\repos\DocumentDbPoc\DocumentDbPoc.Service\bin\Debug\net8.0\DocumentDbPoc.Domain.pdb
+C:\Users\lahirugambheera\source\repos\DocumentDbPoc\DocumentDbPoc.Service\obj\Debug\net8.0\DocumentDbPoc.Service.csproj.AssemblyReference.cache
+C:\Users\lahirugambheera\source\repos\DocumentDbPoc\DocumentDbPoc.Service\obj\Debug\net8.0\DocumentDbPoc.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lahirugambheera\source\repos\DocumentDbPoc\DocumentDbPoc.Service\obj\Debug\net8.0\DocumentDbPoc.Service.AssemblyInfoInputs.cache
+C:\Users\lahirugambheera\source\repos\DocumentDbPoc\DocumentDbPoc.Service\obj\Debug\net8.0\DocumentDbPoc.Service.AssemblyInfo.cs
+C:\Users\lahirugambheera\source\repos\DocumentDbPoc\DocumentDbPoc.Service\obj\Debug\net8.0\DocumentDbPoc.Service.csproj.CoreCompileInputs.cache
+C:\Users\lahirugambheera\source\repos\DocumentDbPoc\DocumentDbPoc.Service\obj\Debug\net8.0\Document.53BFCBD0.Up2Date
+C:\Users\lahirugambheera\source\repos\DocumentDbPoc\DocumentDbPoc.Service\obj\Debug\net8.0\DocumentDbPoc.Service.dll
+C:\Users\lahirugambheera\source\repos\DocumentDbPoc\DocumentDbPoc.Service\obj\Debug\net8.0\refint\DocumentDbPoc.Service.dll
+C:\Users\lahirugambheera\source\repos\DocumentDbPoc\DocumentDbPoc.Service\obj\Debug\net8.0\DocumentDbPoc.Service.pdb
+C:\Users\lahirugambheera\source\repos\DocumentDbPoc\DocumentDbPoc.Service\obj\Debug\net8.0\ref\DocumentDbPoc.Service.dll

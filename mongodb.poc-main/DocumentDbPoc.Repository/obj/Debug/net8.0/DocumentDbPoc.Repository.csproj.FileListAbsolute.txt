@@ -1,0 +1,17 @@
+C:\Users\lahirugambheera\source\repos\DocumentDbPoc\DocumentDbPoc.Repository\bin\Debug\net8.0\DocumentDbPoc.Repository.deps.json
+C:\Users\lahirugambheera\source\repos\DocumentDbPoc\DocumentDbPoc.Repository\bin\Debug\net8.0\DocumentDbPoc.Repository.dll
+C:\Users\lahirugambheera\source\repos\DocumentDbPoc\DocumentDbPoc.Repository\bin\Debug\net8.0\DocumentDbPoc.Repository.pdb
+C:\Users\lahirugambheera\source\repos\DocumentDbPoc\DocumentDbPoc.Repository\bin\Debug\net8.0\DocumentDbPoc.Domain.dll
+C:\Users\lahirugambheera\source\repos\DocumentDbPoc\DocumentDbPoc.Repository\bin\Debug\net8.0\DocumentDbPoc.Persistance.dll
+C:\Users\lahirugambheera\source\repos\DocumentDbPoc\DocumentDbPoc.Repository\bin\Debug\net8.0\DocumentDbPoc.Domain.pdb
+C:\Users\lahirugambheera\source\repos\DocumentDbPoc\DocumentDbPoc.Repository\bin\Debug\net8.0\DocumentDbPoc.Persistance.pdb
+C:\Users\lahirugambheera\source\repos\DocumentDbPoc\DocumentDbPoc.Repository\obj\Debug\net8.0\DocumentDbPoc.Repository.csproj.AssemblyReference.cache
+C:\Users\lahirugambheera\source\repos\DocumentDbPoc\DocumentDbPoc.Repository\obj\Debug\net8.0\DocumentDbPoc.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lahirugambheera\source\repos\DocumentDbPoc\DocumentDbPoc.Repository\obj\Debug\net8.0\DocumentDbPoc.Repository.AssemblyInfoInputs.cache
+C:\Users\lahirugambheera\source\repos\DocumentDbPoc\DocumentDbPoc.Repository\obj\Debug\net8.0\DocumentDbPoc.Repository.AssemblyInfo.cs
+C:\Users\lahirugambheera\source\repos\DocumentDbPoc\DocumentDbPoc.Repository\obj\Debug\net8.0\DocumentDbPoc.Repository.csproj.CoreCompileInputs.cache
+C:\Users\lahirugambheera\source\repos\DocumentDbPoc\DocumentDbPoc.Repository\obj\Debug\net8.0\Document.C8833798.Up2Date
+C:\Users\lahirugambheera\source\repos\DocumentDbPoc\DocumentDbPoc.Repository\obj\Debug\net8.0\DocumentDbPoc.Repository.dll
+C:\Users\lahirugambheera\source\repos\DocumentDbPoc\DocumentDbPoc.Repository\obj\Debug\net8.0\refint\DocumentDbPoc.Repository.dll
+C:\Users\lahirugambheera\source\repos\DocumentDbPoc\DocumentDbPoc.Repository\obj\Debug\net8.0\DocumentDbPoc.Repository.pdb
+C:\Users\lahirugambheera\source\repos\DocumentDbPoc\DocumentDbPoc.Repository\obj\Debug\net8.0\ref\DocumentDbPoc.Repository.dll

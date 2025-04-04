@@ -1,0 +1,329 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lahirugambheera\\source\\repos\\DocumentDbPoc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5708F20C-77C1-42DA-BA3C-DAE306A1BF8A}|DocumentDbPoc.Repository\\DocumentDbPoc.Repository.csproj|c:\\users\\lahirugambheera\\source\\repos\\documentdbpoc\\documentdbpoc.repository\\authorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5708F20C-77C1-42DA-BA3C-DAE306A1BF8A}|DocumentDbPoc.Repository\\DocumentDbPoc.Repository.csproj|solutionrelative:documentdbpoc.repository\\authorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB6F7F93-8DC6-4CD8-A936-C16829E5B811}|DocumentDbPoc.Api\\DocumentDbPoc.Api.csproj|c:\\users\\lahirugambheera\\source\\repos\\documentdbpoc\\documentdbpoc.api\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB6F7F93-8DC6-4CD8-A936-C16829E5B811}|DocumentDbPoc.Api\\DocumentDbPoc.Api.csproj|solutionrelative:documentdbpoc.api\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5708F20C-77C1-42DA-BA3C-DAE306A1BF8A}|DocumentDbPoc.Repository\\DocumentDbPoc.Repository.csproj|c:\\users\\lahirugambheera\\source\\repos\\documentdbpoc\\documentdbpoc.repository\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5708F20C-77C1-42DA-BA3C-DAE306A1BF8A}|DocumentDbPoc.Repository\\DocumentDbPoc.Repository.csproj|solutionrelative:documentdbpoc.repository\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26BC6FD2-29E8-438C-BBB0-FC11C7EAC050}|DocumentDbPoc.Persistance\\DocumentDbPoc.Persistance.csproj|c:\\users\\lahirugambheera\\source\\repos\\documentdbpoc\\documentdbpoc.persistance\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26BC6FD2-29E8-438C-BBB0-FC11C7EAC050}|DocumentDbPoc.Persistance\\DocumentDbPoc.Persistance.csproj|solutionrelative:documentdbpoc.persistance\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB6F7F93-8DC6-4CD8-A936-C16829E5B811}|DocumentDbPoc.Api\\DocumentDbPoc.Api.csproj|c:\\users\\lahirugambheera\\source\\repos\\documentdbpoc\\documentdbpoc.api\\documentdbpoc.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{AB6F7F93-8DC6-4CD8-A936-C16829E5B811}|DocumentDbPoc.Api\\DocumentDbPoc.Api.csproj|solutionrelative:documentdbpoc.api\\documentdbpoc.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB6F7F93-8DC6-4CD8-A936-C16829E5B811}|DocumentDbPoc.Api\\DocumentDbPoc.Api.csproj|c:\\users\\lahirugambheera\\source\\repos\\documentdbpoc\\documentdbpoc.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AB6F7F93-8DC6-4CD8-A936-C16829E5B811}|DocumentDbPoc.Api\\DocumentDbPoc.Api.csproj|solutionrelative:documentdbpoc.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61D3918F-E5AF-4915-82A3-FEA2C25A2BC8}|DocumentDbPoc.Domain\\DocumentDbPoc.Domain.csproj|c:\\users\\lahirugambheera\\source\\repos\\documentdbpoc\\documentdbpoc.domain\\business\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61D3918F-E5AF-4915-82A3-FEA2C25A2BC8}|DocumentDbPoc.Domain\\DocumentDbPoc.Domain.csproj|solutionrelative:documentdbpoc.domain\\business\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61D3918F-E5AF-4915-82A3-FEA2C25A2BC8}|DocumentDbPoc.Domain\\DocumentDbPoc.Domain.csproj|c:\\users\\lahirugambheera\\source\\repos\\documentdbpoc\\documentdbpoc.domain\\business\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61D3918F-E5AF-4915-82A3-FEA2C25A2BC8}|DocumentDbPoc.Domain\\DocumentDbPoc.Domain.csproj|solutionrelative:documentdbpoc.domain\\business\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB6F7F93-8DC6-4CD8-A936-C16829E5B811}|DocumentDbPoc.Api\\DocumentDbPoc.Api.csproj|c:\\users\\lahirugambheera\\source\\repos\\documentdbpoc\\documentdbpoc.api\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB6F7F93-8DC6-4CD8-A936-C16829E5B811}|DocumentDbPoc.Api\\DocumentDbPoc.Api.csproj|solutionrelative:documentdbpoc.api\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB6F7F93-8DC6-4CD8-A936-C16829E5B811}|DocumentDbPoc.Api\\DocumentDbPoc.Api.csproj|c:\\users\\lahirugambheera\\source\\repos\\documentdbpoc\\documentdbpoc.api\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB6F7F93-8DC6-4CD8-A936-C16829E5B811}|DocumentDbPoc.Api\\DocumentDbPoc.Api.csproj|solutionrelative:documentdbpoc.api\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB6F7F93-8DC6-4CD8-A936-C16829E5B811}|DocumentDbPoc.Api\\DocumentDbPoc.Api.csproj|c:\\users\\lahirugambheera\\source\\repos\\documentdbpoc\\documentdbpoc.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AB6F7F93-8DC6-4CD8-A936-C16829E5B811}|DocumentDbPoc.Api\\DocumentDbPoc.Api.csproj|solutionrelative:documentdbpoc.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB6F7F93-8DC6-4CD8-A936-C16829E5B811}|DocumentDbPoc.Api\\DocumentDbPoc.Api.csproj|c:\\users\\lahirugambheera\\source\\repos\\documentdbpoc\\documentdbpoc.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB6F7F93-8DC6-4CD8-A936-C16829E5B811}|DocumentDbPoc.Api\\DocumentDbPoc.Api.csproj|solutionrelative:documentdbpoc.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26BC6FD2-29E8-438C-BBB0-FC11C7EAC050}|DocumentDbPoc.Persistance\\DocumentDbPoc.Persistance.csproj|c:\\users\\lahirugambheera\\source\\repos\\documentdbpoc\\documentdbpoc.persistance\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26BC6FD2-29E8-438C-BBB0-FC11C7EAC050}|DocumentDbPoc.Persistance\\DocumentDbPoc.Persistance.csproj|solutionrelative:documentdbpoc.persistance\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B317C25C-C0C5-4102-BDC4-15CC0F5EE42E}|DocumentDbPoc.Service\\DocumentDbPoc.Service.csproj|c:\\users\\lahirugambheera\\source\\repos\\documentdbpoc\\documentdbpoc.service\\business\\concrete\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B317C25C-C0C5-4102-BDC4-15CC0F5EE42E}|DocumentDbPoc.Service\\DocumentDbPoc.Service.csproj|solutionrelative:documentdbpoc.service\\business\\concrete\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B317C25C-C0C5-4102-BDC4-15CC0F5EE42E}|DocumentDbPoc.Service\\DocumentDbPoc.Service.csproj|c:\\users\\lahirugambheera\\source\\repos\\documentdbpoc\\documentdbpoc.service\\documentdbservices\\mongodbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B317C25C-C0C5-4102-BDC4-15CC0F5EE42E}|DocumentDbPoc.Service\\DocumentDbPoc.Service.csproj|solutionrelative:documentdbpoc.service\\documentdbservices\\mongodbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B317C25C-C0C5-4102-BDC4-15CC0F5EE42E}|DocumentDbPoc.Service\\DocumentDbPoc.Service.csproj|c:\\users\\lahirugambheera\\source\\repos\\documentdbpoc\\documentdbpoc.service\\business\\interface\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B317C25C-C0C5-4102-BDC4-15CC0F5EE42E}|DocumentDbPoc.Service\\DocumentDbPoc.Service.csproj|solutionrelative:documentdbpoc.service\\business\\interface\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61D3918F-E5AF-4915-82A3-FEA2C25A2BC8}|DocumentDbPoc.Domain\\DocumentDbPoc.Domain.csproj|c:\\users\\lahirugambheera\\source\\repos\\documentdbpoc\\documentdbpoc.domain\\business\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61D3918F-E5AF-4915-82A3-FEA2C25A2BC8}|DocumentDbPoc.Domain\\DocumentDbPoc.Domain.csproj|solutionrelative:documentdbpoc.domain\\business\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB6F7F93-8DC6-4CD8-A936-C16829E5B811}|DocumentDbPoc.Api\\DocumentDbPoc.Api.csproj|c:\\users\\lahirugambheera\\source\\repos\\documentdbpoc\\documentdbpoc.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB6F7F93-8DC6-4CD8-A936-C16829E5B811}|DocumentDbPoc.Api\\DocumentDbPoc.Api.csproj|solutionrelative:documentdbpoc.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DocumentDbPoc.Api.http",
+              "DocumentMoniker": "C:\\Users\\lahirugambheera\\source\\repos\\DocumentDbPoc\\DocumentDbPoc.Api\\DocumentDbPoc.Api.http",
+              "RelativeDocumentMoniker": "DocumentDbPoc.Api\\DocumentDbPoc.Api.http",
+              "ToolTip": "C:\\Users\\lahirugambheera\\source\\repos\\DocumentDbPoc\\DocumentDbPoc.Api\\DocumentDbPoc.Api.http",
+              "RelativeToolTip": "DocumentDbPoc.Api\\DocumentDbPoc.Api.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-07-23T04:33:36.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\lahirugambheera\\source\\repos\\DocumentDbPoc\\DocumentDbPoc.Repository\\AuthorRepository.cs",
+              "RelativeDocumentMoniker": "DocumentDbPoc.Repository\\AuthorRepository.cs",
+              "ToolTip": "C:\\Users\\lahirugambheera\\source\\repos\\DocumentDbPoc\\DocumentDbPoc.Repository\\AuthorRepository.cs",
+              "RelativeToolTip": "DocumentDbPoc.Repository\\AuthorRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAkwCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T11:14:29.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DatabaseContext.cs",
+              "DocumentMoniker": "C:\\Users\\lahirugambheera\\source\\repos\\DocumentDbPoc\\DocumentDbPoc.Persistance\\DatabaseContext.cs",
+              "RelativeDocumentMoniker": "DocumentDbPoc.Persistance\\DatabaseContext.cs",
+              "ToolTip": "C:\\Users\\lahirugambheera\\source\\repos\\DocumentDbPoc\\DocumentDbPoc.Persistance\\DatabaseContext.cs",
+              "RelativeToolTip": "DocumentDbPoc.Persistance\\DatabaseContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T10:38:38.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\lahirugambheera\\source\\repos\\DocumentDbPoc\\DocumentDbPoc.Api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "DocumentDbPoc.Api\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\lahirugambheera\\source\\repos\\DocumentDbPoc\\DocumentDbPoc.Api\\appsettings.Development.json",
+              "RelativeToolTip": "DocumentDbPoc.Api\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-16T10:00:53.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\lahirugambheera\\source\\repos\\DocumentDbPoc\\DocumentDbPoc.Api\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "DocumentDbPoc.Api\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\lahirugambheera\\source\\repos\\DocumentDbPoc\\DocumentDbPoc.Api\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "DocumentDbPoc.Api\\Controllers\\BooksController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T11:23:02.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\lahirugambheera\\source\\repos\\DocumentDbPoc\\DocumentDbPoc.Api\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "DocumentDbPoc.Api\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\lahirugambheera\\source\\repos\\DocumentDbPoc\\DocumentDbPoc.Api\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "DocumentDbPoc.Api\\Controllers\\CustomerController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T10:22:34.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\lahirugambheera\\source\\repos\\DocumentDbPoc\\DocumentDbPoc.Repository\\BookRepository.cs",
+              "RelativeDocumentMoniker": "DocumentDbPoc.Repository\\BookRepository.cs",
+              "ToolTip": "C:\\Users\\lahirugambheera\\source\\repos\\DocumentDbPoc\\DocumentDbPoc.Repository\\BookRepository.cs",
+              "RelativeToolTip": "DocumentDbPoc.Repository\\BookRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T11:15:43.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthorsController.cs",
+              "DocumentMoniker": "C:\\Users\\lahirugambheera\\source\\repos\\DocumentDbPoc\\DocumentDbPoc.Api\\Controllers\\AuthorsController.cs",
+              "RelativeDocumentMoniker": "DocumentDbPoc.Api\\Controllers\\AuthorsController.cs",
+              "ToolTip": "C:\\Users\\lahirugambheera\\source\\repos\\DocumentDbPoc\\DocumentDbPoc.Api\\Controllers\\AuthorsController.cs",
+              "RelativeToolTip": "DocumentDbPoc.Api\\Controllers\\AuthorsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T11:22:22.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\lahirugambheera\\source\\repos\\DocumentDbPoc\\DocumentDbPoc.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "DocumentDbPoc.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\lahirugambheera\\source\\repos\\DocumentDbPoc\\DocumentDbPoc.Api\\appsettings.json",
+              "RelativeToolTip": "DocumentDbPoc.Api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-17T08:45:06.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\Users\\lahirugambheera\\source\\repos\\DocumentDbPoc\\DocumentDbPoc.Domain\\Business\\Author.cs",
+              "RelativeDocumentMoniker": "DocumentDbPoc.Domain\\Business\\Author.cs",
+              "ToolTip": "C:\\Users\\lahirugambheera\\source\\repos\\DocumentDbPoc\\DocumentDbPoc.Domain\\Business\\Author.cs",
+              "RelativeToolTip": "DocumentDbPoc.Domain\\Business\\Author.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAkwAoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T10:35:50.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\lahirugambheera\\source\\repos\\DocumentDbPoc\\DocumentDbPoc.Domain\\Business\\Book.cs",
+              "RelativeDocumentMoniker": "DocumentDbPoc.Domain\\Business\\Book.cs",
+              "ToolTip": "C:\\Users\\lahirugambheera\\source\\repos\\DocumentDbPoc\\DocumentDbPoc.Domain\\Business\\Book.cs",
+              "RelativeToolTip": "DocumentDbPoc.Domain\\Business\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAkwAoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T10:36:26.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppSettings.cs",
+              "DocumentMoniker": "C:\\Users\\lahirugambheera\\source\\repos\\DocumentDbPoc\\DocumentDbPoc.Persistance\\AppSettings.cs",
+              "RelativeDocumentMoniker": "DocumentDbPoc.Persistance\\AppSettings.cs",
+              "ToolTip": "C:\\Users\\lahirugambheera\\source\\repos\\DocumentDbPoc\\DocumentDbPoc.Persistance\\AppSettings.cs",
+              "RelativeToolTip": "DocumentDbPoc.Persistance\\AppSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T10:40:21.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\lahirugambheera\\source\\repos\\DocumentDbPoc\\DocumentDbPoc.Service\\Business\\Concrete\\CustomerService.cs",
+              "RelativeDocumentMoniker": "DocumentDbPoc.Service\\Business\\Concrete\\CustomerService.cs",
+              "ToolTip": "C:\\Users\\lahirugambheera\\source\\repos\\DocumentDbPoc\\DocumentDbPoc.Service\\Business\\Concrete\\CustomerService.cs",
+              "RelativeToolTip": "DocumentDbPoc.Service\\Business\\Concrete\\CustomerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T10:27:43.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lahirugambheera\\source\\repos\\DocumentDbPoc\\DocumentDbPoc.Api\\Program.cs",
+              "RelativeDocumentMoniker": "DocumentDbPoc.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\lahirugambheera\\source\\repos\\DocumentDbPoc\\DocumentDbPoc.Api\\Program.cs",
+              "RelativeToolTip": "DocumentDbPoc.Api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T10:28:53.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ICustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\lahirugambheera\\source\\repos\\DocumentDbPoc\\DocumentDbPoc.Service\\Business\\Interface\\ICustomerService.cs",
+              "RelativeDocumentMoniker": "DocumentDbPoc.Service\\Business\\Interface\\ICustomerService.cs",
+              "ToolTip": "C:\\Users\\lahirugambheera\\source\\repos\\DocumentDbPoc\\DocumentDbPoc.Service\\Business\\Interface\\ICustomerService.cs",
+              "RelativeToolTip": "DocumentDbPoc.Service\\Business\\Interface\\ICustomerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAkwA8AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T10:24:46.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\lahirugambheera\\source\\repos\\DocumentDbPoc\\DocumentDbPoc.Domain\\Business\\Customer.cs",
+              "RelativeDocumentMoniker": "DocumentDbPoc.Domain\\Business\\Customer.cs",
+              "ToolTip": "C:\\Users\\lahirugambheera\\source\\repos\\DocumentDbPoc\\DocumentDbPoc.Domain\\Business\\Customer.cs",
+              "RelativeToolTip": "DocumentDbPoc.Domain\\Business\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAkwBMAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T10:18:01.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MongoDbService.cs",
+              "DocumentMoniker": "C:\\Users\\lahirugambheera\\source\\repos\\DocumentDbPoc\\DocumentDbPoc.Service\\DocumentDbServices\\MongoDbService.cs",
+              "RelativeDocumentMoniker": "DocumentDbPoc.Service\\DocumentDbServices\\MongoDbService.cs",
+              "ToolTip": "C:\\Users\\lahirugambheera\\source\\repos\\DocumentDbPoc\\DocumentDbPoc.Service\\DocumentDbServices\\MongoDbService.cs",
+              "RelativeToolTip": "DocumentDbPoc.Service\\DocumentDbServices\\MongoDbService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABgAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T10:07:27.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\lahirugambheera\\source\\repos\\DocumentDbPoc\\DocumentDbPoc.Api\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "DocumentDbPoc.Api\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\lahirugambheera\\source\\repos\\DocumentDbPoc\\DocumentDbPoc.Api\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "DocumentDbPoc.Api\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T08:25:37.968Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

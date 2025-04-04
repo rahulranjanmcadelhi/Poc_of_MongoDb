@@ -1,0 +1,12 @@
+C:\Users\lahirugambheera\source\repos\DocumentDbPoc\DocumentDbPoc.Domain\bin\Debug\net8.0\DocumentDbPoc.Domain.deps.json
+C:\Users\lahirugambheera\source\repos\DocumentDbPoc\DocumentDbPoc.Domain\bin\Debug\net8.0\DocumentDbPoc.Domain.dll
+C:\Users\lahirugambheera\source\repos\DocumentDbPoc\DocumentDbPoc.Domain\bin\Debug\net8.0\DocumentDbPoc.Domain.pdb
+C:\Users\lahirugambheera\source\repos\DocumentDbPoc\DocumentDbPoc.Domain\obj\Debug\net8.0\DocumentDbPoc.Domain.csproj.AssemblyReference.cache
+C:\Users\lahirugambheera\source\repos\DocumentDbPoc\DocumentDbPoc.Domain\obj\Debug\net8.0\DocumentDbPoc.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lahirugambheera\source\repos\DocumentDbPoc\DocumentDbPoc.Domain\obj\Debug\net8.0\DocumentDbPoc.Domain.AssemblyInfoInputs.cache
+C:\Users\lahirugambheera\source\repos\DocumentDbPoc\DocumentDbPoc.Domain\obj\Debug\net8.0\DocumentDbPoc.Domain.AssemblyInfo.cs
+C:\Users\lahirugambheera\source\repos\DocumentDbPoc\DocumentDbPoc.Domain\obj\Debug\net8.0\DocumentDbPoc.Domain.csproj.CoreCompileInputs.cache
+C:\Users\lahirugambheera\source\repos\DocumentDbPoc\DocumentDbPoc.Domain\obj\Debug\net8.0\DocumentDbPoc.Domain.dll
+C:\Users\lahirugambheera\source\repos\DocumentDbPoc\DocumentDbPoc.Domain\obj\Debug\net8.0\refint\DocumentDbPoc.Domain.dll
+C:\Users\lahirugambheera\source\repos\DocumentDbPoc\DocumentDbPoc.Domain\obj\Debug\net8.0\DocumentDbPoc.Domain.pdb
+C:\Users\lahirugambheera\source\repos\DocumentDbPoc\DocumentDbPoc.Domain\obj\Debug\net8.0\ref\DocumentDbPoc.Domain.dll

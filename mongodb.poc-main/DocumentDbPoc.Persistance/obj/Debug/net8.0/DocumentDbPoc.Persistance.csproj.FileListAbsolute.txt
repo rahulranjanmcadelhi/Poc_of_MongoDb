@@ -1,0 +1,15 @@
+C:\Users\lahirugambheera\source\repos\DocumentDbPoc\DocumentDbPoc.Persistance\bin\Debug\net8.0\DocumentDbPoc.Persistance.deps.json
+C:\Users\lahirugambheera\source\repos\DocumentDbPoc\DocumentDbPoc.Persistance\bin\Debug\net8.0\DocumentDbPoc.Persistance.dll
+C:\Users\lahirugambheera\source\repos\DocumentDbPoc\DocumentDbPoc.Persistance\bin\Debug\net8.0\DocumentDbPoc.Persistance.pdb
+C:\Users\lahirugambheera\source\repos\DocumentDbPoc\DocumentDbPoc.Persistance\bin\Debug\net8.0\DocumentDbPoc.Domain.dll
+C:\Users\lahirugambheera\source\repos\DocumentDbPoc\DocumentDbPoc.Persistance\bin\Debug\net8.0\DocumentDbPoc.Domain.pdb
+C:\Users\lahirugambheera\source\repos\DocumentDbPoc\DocumentDbPoc.Persistance\obj\Debug\net8.0\DocumentDbPoc.Persistance.csproj.AssemblyReference.cache
+C:\Users\lahirugambheera\source\repos\DocumentDbPoc\DocumentDbPoc.Persistance\obj\Debug\net8.0\DocumentDbPoc.Persistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lahirugambheera\source\repos\DocumentDbPoc\DocumentDbPoc.Persistance\obj\Debug\net8.0\DocumentDbPoc.Persistance.AssemblyInfoInputs.cache
+C:\Users\lahirugambheera\source\repos\DocumentDbPoc\DocumentDbPoc.Persistance\obj\Debug\net8.0\DocumentDbPoc.Persistance.AssemblyInfo.cs
+C:\Users\lahirugambheera\source\repos\DocumentDbPoc\DocumentDbPoc.Persistance\obj\Debug\net8.0\DocumentDbPoc.Persistance.csproj.CoreCompileInputs.cache
+C:\Users\lahirugambheera\source\repos\DocumentDbPoc\DocumentDbPoc.Persistance\obj\Debug\net8.0\Document.415ABB5C.Up2Date
+C:\Users\lahirugambheera\source\repos\DocumentDbPoc\DocumentDbPoc.Persistance\obj\Debug\net8.0\DocumentDbPoc.Persistance.dll
+C:\Users\lahirugambheera\source\repos\DocumentDbPoc\DocumentDbPoc.Persistance\obj\Debug\net8.0\refint\DocumentDbPoc.Persistance.dll
+C:\Users\lahirugambheera\source\repos\DocumentDbPoc\DocumentDbPoc.Persistance\obj\Debug\net8.0\DocumentDbPoc.Persistance.pdb
+C:\Users\lahirugambheera\source\repos\DocumentDbPoc\DocumentDbPoc.Persistance\obj\Debug\net8.0\ref\DocumentDbPoc.Persistance.dll

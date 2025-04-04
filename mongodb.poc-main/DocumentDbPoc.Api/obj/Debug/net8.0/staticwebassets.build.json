@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "oEHVtR7p40wwuq6QjdavLItVegXVgNPamlLwIj2IGfg=",
+  "Source": "DocumentDbPoc.Api",
+  "BasePath": "_content/DocumentDbPoc.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
